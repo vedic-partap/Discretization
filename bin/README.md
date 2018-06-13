@@ -1,0 +1,1 @@
+This folder contains the intermediate outputs e.g. The LOF scores after each case. 
