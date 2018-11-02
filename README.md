@@ -23,4 +23,5 @@ Neural nets also helps to reduce the same.
 ## Time Series Data ##
 Temporal point data where each point has one or more attributes and the attributes change over time. Linear Method works pretty good for series data. 
 
+Updation of code for OC SVM and corresponfding plots willbe done soon. 
 For any doubts contact [Vedic Partap](http://cse.iitkgp.ac.in/~vedicp/). Feel free to mail at <vedicpartap1999@iitkgp.ac.in>. 
